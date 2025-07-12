@@ -26,7 +26,7 @@ Enjoy writing with **Markdown + Hugo + Relearn + Netlify**! 🎉
 
 ## Contact us
 
-<iframe src="[https://tally.so/embed/w8Dl1r?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1](https://tally.so/embed/w8Dl1r?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1)" 
+<iframe src="[https://tally.so/embed/w8Dl1r?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1](https://tally.so/embed/w8Dl1r?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=0)" 
         width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="Contact Us">
 </iframe>
 
