@@ -26,8 +26,8 @@ Enjoy writing with **Markdown + Hugo + Relearn + Netlify**! 🎉
 
 ## Contact us
 
-> [!info]
-> This is a callout.
+> [!tip] Try this
+> This is a great idea to test.
 
 
 
