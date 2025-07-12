@@ -13,9 +13,9 @@ This guide outlines the process for onboarding new students into our systems. It
 
 ## 🧭 Overview of the Process
 
-1. Retrieve new student registration from **Edsby**
-2. Enter student details into **AdminPlus+**
-3. Configure billing in **FINACS**
+1. Retrieve new student registration from **Edsby** [Access the recording HERE](https://www.youtube.com/watch?v=ZFL09qhKi5I)
+3. Enter student details into **AdminPlus+** [Access the recording HERE](https://www.youtube.com/watch?v=ZFL09qhKi5I)
+4. Configure billing in **FINACS** [Access the recording HERE](https://www.youtube.com/watch?v=ZFL09qhKi5I)
 
 ---
 
