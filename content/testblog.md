@@ -1,5 +1,5 @@
 ---
-title: blogpost
+title: "First Blog"
 weight: 12
 ---
 
