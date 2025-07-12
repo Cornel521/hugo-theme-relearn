@@ -26,4 +26,4 @@ Enjoy writing with **Markdown + Hugo + Relearn + Netlify**! 🎉
 
 ## Contact us
 
-{{< partial "tally-form.html" >}}
+
