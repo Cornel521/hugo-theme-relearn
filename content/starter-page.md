@@ -1,6 +1,6 @@
 ---
 title: "Starter Page"
-weight: 10
+weight: 12
 ---
 
 # 🚀 Starter Page
