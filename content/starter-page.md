@@ -26,9 +26,6 @@ Enjoy writing with **Markdown + Hugo + Relearn + Netlify**! 🎉
 
 ## Contact us
 
-> [!tip] Try this
-> This is a great idea to test.
-
-<h3>this is a great idea</h3>
+{{< contactform >}}
 
 
