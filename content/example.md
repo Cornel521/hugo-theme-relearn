@@ -1,7 +1,16 @@
 ---
-title: 'Example'
-date: 2024-05-26T09:10:33-07:00
+title: "Internal Tools"
+weight: 20
 ---
+
+# 🛠️ Internal Tools
+
+This page lists helpful tools for the team.
+
+| Tool Name    | Description            | Link                          |
+|--------------|------------------------|-------------------------------|
+| Time Tracker | Logs project hours     | [Go to Tool](/tools/time)     |
+| Wiki         | Internal documentation | [Go to Wiki](/tools/wiki)     |
 
 This is the first paragraph.
 
